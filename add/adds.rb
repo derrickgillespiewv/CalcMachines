@@ -3,12 +3,12 @@ puts "This programs sums two numbers."
 
 def num_1
 	print "Type first number."
-	num_1 = gets.to_i
+	num_1 = gets.to_f
 end
 
 def num_2
 	print "Type second number."
-	num_2 = gets.to_i
+	num_2 = gets.to_f
 end
 
 def calculation
